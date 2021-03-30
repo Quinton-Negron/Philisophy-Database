@@ -1,0 +1,25 @@
+By Ricardo Daniels
+Thomas Laurel
+Quinton Negron
+
+How to
+
+1) Make sure that you have an Author.csv, Era.csv, School.csv, Language.csv, Topic.csv, Prerequisite.csv, PreN.csv, and N1.csv file
+
+2) You must load 9 different files (Author, Era, School, Language, Topic, Prerequisite, PreNormalized, N1). 
+
+3) the first 7 tables are just for getting a 1:1 result.
+
+4) PreNormalization is for results that are non-atomic, meanwhile N1 is for atomic results (Entries have their own row).
+
+5) If you want to pick a result you specify by writing Select * from [attribute] where [attribute] = '[entry]';
+
+For example, Select * from Language where Language = 'Latin'; 
+
+gives you only results relating to Latin 
+
+6) If you want to have multiple entries then you write Select * from [attribute] where [attribute] = '[entry]' and [attribute] = '[entry]';
+
+For example, select * from N1 where Prerequisite = 'new' and Topic = 'Epistemology';
+
+gives you results only relating to new entries for Epistemology.

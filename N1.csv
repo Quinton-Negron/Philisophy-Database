@@ -1,0 +1,218 @@
+Work,Author,Era,School of Thought,Topic(s),Original Language,Prerequisite,Eastern/Western
+,,,,,,,
+The Art of War,Sun Tzu,Pre-Socratic,Martial,Ethics,Chinese,N/A,Eastern
+Analects,Confucious,Pre-Socratic,Hundred Schools,Politics,Chinese,N/A,Eastern
+Analects,Confucious,Pre-Socratic,Hundred Schools,Ethics,Chinese,N/A,Eastern
+Tao Te Ching,Laozi,Pre-Socratic,Hundred Schools,Metaphysics,Chinese,N/A,Eastern
+Tao Te Ching,Laozi,Pre-Socratic,Hundred Schools,Ethics,Chinese,N/A,Eastern
+Mencius,Mencius,Pre-Socratic,Hundred Schools,Politics,Chinese,N/A,Eastern
+Mencius,Mencius,Pre-Socratic,Hundred Schools,Ethics,Chinese,N/A,Eastern
+Gongsun Long,Gonsun Long,Pre-Socratic,Hundred Schools,Logic,Chinese,N/A,Eastern
+,,,,,,,
+Parmenides,Plato,Post-Socratic,Platonism,Metaphysics,Greek,N/A,Western
+Parmenides,Plato,Post-Socratic,Platonism,Epistemology,Greek,N/A,Western
+Timaeus,Plato,Post-Socratic,Platonism,Metaphysics ,Greek,N/A,Western
+The Republic,Plato,Post-Socratic,Platonism,Epistemology,Greek,N/A,Western
+The Republic,Plato,Post-Socratic,Platonism,Politics,Greek,N/A,Western
+Theatetus,Plato,Post-Socratic,Platonism,Epistemology,Greek,N/A,Western
+Phaedo,Plato,Post-Socratic,Platonism,Metaphysics,Greek ,N/A,Western
+,,,,,,,
+Metaphysics,Aristotle,Post-Socratic,Aristotelian,Metaphysics,Greek,N/A,Western
+Metaphysics,Aristotle,Post-Socratic,Aristotelian,Logic,Greek,N/A,Western
+Nicomachean Ethics,Aristotle,Post-Socratic,Aristotelian,Ethics,Greek,N/A,Western
+Politics,Aristotle,Post-Socratic,Aristotelian,Politics,Greek,N/A,Western
+Organon,Aristotle,Post-Socratic,Aristotelian,Logic,Greek,N/A,Western
+Organon,Aristotle,Post-Socratic,Aristotelian,Epistemology,Greek,N/A,Western
+On the Soul,Aristotle,Post-Socratic,Aristotelian,Metaphysics,Greek,N/A,Western
+On the Soul,Aristotle,Post-Socratic,Aristotelian,Mind,Greek,N/A,Western
+,,,,,,,
+On Nature,Epicurus,Post-Socratic,Epicureanism,Metaphysics,Greek,N/A,Western
+On the Nature of Things,Lucretius,Post-Socratic,Epicureanism,Metaphysics,Latin,N/A,Western
+Enchiridion,Epictetus,Post-Socratic,Stoicism,Ethics,Greek,N/A,Western
+Discourses,Epictetus,Post-Socratic,Stoicism,Metaphysics,Greek,Enchiridion - Epictetus,Western
+Discourses,Epictetus,Post-Socratic,Stoicism,Ethics,Greek,Enchiridion - Epictetus,Western
+Meditations,Marcus Aurelius,Post-Socratic,Stoicism,Ethics,Greek,N/A,Western
+Letters from a Stoic,Lucious Seneca,Post-Socratic,Stoicism,Ethics,Latin,N/A,Western
+Outlines of Pyrrhonianism,Sextus Empiricus,Post-Socratic,Skepticism,Epistemology,Greek,N/A,Western
+Isagoge,Porphyry,Post-Socratic,Platonism,Metaphysics,Greek,N/A,Western
+On the Laws,Marcus Tullius Cicero,Post-Socratic,Republicanism,Politics,Latin,N/A,Western
+,,,,,,,
+Samkhyakarika,Isvarakrsna,Post-Socratic,Hindu,Metaphysics,Sanskrit,N/A,Eastern
+Samkhyakarika,Isvarakrsna,Post-Socratic,Hindu,Epistemology,Sanskrit,N/A,Eastern
+Samkhyakarika,Isvarakrsna,Post-Socratic,Hindu,Mind,Sanskrit,N/A,Eastern
+,,,,,,,
+Nyaya Sutras,Akshapada Gautama,Post-Socratic,Hindu,Metaphysics,Sanskrit,N/A,Eastern
+Nyaya Sutras,Akshapada Gautama,Post-Socratic,Hindu,Logic,Sanskrit,N/A,Eastern
+Nyaya Sutras,Akshapada Gautama,Post-Socratic,Hindu,Epistemology,Sanskrit,N/A,Eastern
+Upadesasahasri,Adi Shankara,Post-Socratic,Hindu,Metaphysics,Sanskrit,N/A,Eastern
+Upadesasahasri,Adi Shankara,Post-Socratic,Hindu,Epistemology,Sanskrit,N/A,Eastern
+Upadesasahasri,Adi Shankara,Post-Socratic,Hindu,Mind,Sanskrit,N/A,Eastern
+,,,,,,,
+The City of God,Augustine of Hippo,Post-Socratic,Platonism,Metaphysics,Latin,Phaedo - Plato,Western
+The City of God,Augustine of Hippo,Post-Socratic,Platonism,Ethics,Latin,Phaedo - Plato,Western
+The City of God,Augustine of Hippo,Post-Socratic,Platonism,Politics,Latin,Phaedo - Plato,Western
+The Consolation of Philosophy,Boethius,Medieval,Scholastic,Metaphysics,Latin,Phaedo - Plato,Western
+The Consolation of Philosophy,Boethius,Medieval,Scholastic,Ethics,Latin,Phaedo - Plato,Western
+The Enneads,Plotinus,Post-Socratic,Platonism,Methaphysics,Greek,Parmenides - Plato,Western
+The Enneads,Plotinus,Post-Socratic,Platonism,Ethics,Greek,Parmenides - Plato,Western
+,,,,,,,
+The Book of Healing,Avicenna,Medieval,Platonism,Metaphysics,Arabic,Metaphysics - Aristotle,Western
+The Book of Healing,Avicenna,Medieval,Platonism,Logic,Arabic,Metaphysics - Aristotle,Western
+The Book of Healing,Avicenna,Medieval,Platonism,Epistemology,Arabic,Metaphysics - Aristotle,Western
+The Incoherence of the Incoherence,Averroes,Medieval,Aristotelianism,Metaphysics,Arabic,Metaphysics - Aristotle,Western
+The Incoherence of the Incoherence,Averroes,Medieval,Aristotelianism,Epistemology,Arabic,Metaphysics - Aristotle,Western
+The Guide for the Perplexed,Maimonides,Medieval,Jewish,Metaphysics,Judao-Arabic,Metaphysics - Aristotle,Western
+The Book of Beliefs and Opinions,Saadia Gaon,Medieval,Jewish,Metaphysics,Judao-Arabic,Metaphysics - Aristotle,Western
+The Book of Beliefs and Opinions,Saadia Gaon,Medieval,Jewish,Epistemology,Judao-Arabic,Metaphysics - Aristotle,Western
+The Book of Beliefs and Opinions,Saadia Gaon,Medieval,Jewish,Ethics,Judao-Arabic,Metaphysics - Aristotle,Western
+,,,,,,,
+Proslogion,Anselm of Canterbury,Medieval,Scholasticism,Metaphysics,Latin,N/A,Western
+Dialectica,Peter Abelard,Medieval,Scholasticism,Logic,Latin,Organon - Aristotle,Western
+The Metaphysics of Light,Robert Grosseteste,Medieval,Scholasticism,Metaphysics,Latin,Metaphysics - Aristotle,Western
+Summa Theologica,Thomas Aquinas,Medieval,Scholasticism,Metaphysics,Latin,Metaphysics - Aristotle,Western
+Summa Theologica,Thomas Aquinas,Medieval,Scholasticism,Ethics,Latin,Metaphysics - Aristotle,Western
+,,,,,,,
+Ordinatio,Duns Scotus,Medieval,Scholasticism,Metaphysics,Latin,Metaphysics - Aristotle,Western
+Ordinatio,Duns Scotus,Medieval,Scholasticism,Ethics,Latin,Metaphysics - Aristotle,Western
+Opus Majus,Rodger Bacon,Medieval,Scholasticism,Metaphysics,Latin,Nicomachean Ethics - Aristotle,Western
+Opus Majus,Rodger Bacon,Medieval,Scholasticism,Epistemology,Latin,Nicomachean Ethics - Aristotle,Western
+Opus Majus,Rodger Bacon,Medieval,Scholasticism,Logic,Latin,Nicomachean Ethics - Aristotle,Western
+Sum of Logic,William Ockham,Medieval,Scholasticism,Logic,Latin,Organon - Aristotle,Western
+,,,,,,,
+The Book of Five Rings ,Miyamoto Musashi,Modern,Martial,Ethics,Japanese,N/A,Eastern
+The Book of Five Rings ,Miyamoto Musashi,Modern,Martial,Mind,Japanese,N/A,Eastern
+,,,,,,,
+In Praise of Folly,Erasmus of Rotterdam,Modern,Humanism,Ethics,Latin,N/A,Western
+The Prince,Niccolo Machiavelli,Modern,Republicanism,Politics,Italian,N/A,Western
+Discourses on Livy,Niccolo Machiavelli,Modern,Republicanism,Politics,Italian,Politics - Aristotle,Western
+Novum Organum,Francis Bacon,Modern,Empiricism,Epistemology,Latin,N/A,Western
+,,,,,,,
+Meditations on First Philosophy,Rene Descartes,Modern,Rationalism,Metaphysics,French,N/A,Western
+Meditations on First Philosophy,Rene Descartes,Modern,Rationalism,Epistemology,French,N/A,Western
+Meditations on First Philosophy,Rene Descartes,Modern,Rationalism,Mind,French,N/A,Western
+Discourse on the Method,Rene Descartes,Modern,Rationalism,Metaphysics,French,N/A,Western
+Discourse on the Method,Rene Descartes,Modern,Rationalism,Epistemology,French,N/A,Western
+Leviathan,Thomas Hobbes,Modern,Empirisism,Politics,English,N/A,Western
+An Essay Concerning Human Understanding,John Locke,Modern,Empirisism,Metaphysics,English,Parmenides - Plato,Western
+An Essay Concerning Human Understanding,John Locke,Modern,Empirisism,Epistemology,English,Parmenides - Plato,Western
+Two Treatises of Government,John Locke,Modern,Liberalism,Politics,English,N/A,Western
+,,,,,,,
+Discourse on Metaphysics,Gottfried Leibniz,Modern,Idealism,Metaphysics,French,Phaedo - Plato,Western
+Monadology,Gottfried Leibniz,Modern,Idealism,Metaphysics,French,N/A,Western
+New Essays on Human Understanding,Gottfried Leibniz,Modern,Idealism,Metaphysics,French,An Essay Concerning Human Understanding - Locke,Western
+New Essays on Human Understanding,Gottfried Leibniz,Modern,Idealism,Epistemology,French,An Essay Concerning Human Understanding - Locke,Western
+,,,,,,,
+A Treatise Concerning the Principles of Human Knowledge,George Berkely,Modern,Idealism,Metaphysics,English,An Essay Concerning Human Understanding - Locke,Western
+A Treatise Concerning the Principles of Human Knowledge,George Berkely,Modern,Idealism,Epistemology,English,An Essay Concerning Human Understanding - Locke,Western
+Ethics,Baruch Spinoza,Modern,Rationalism,Metaphysics,Latin,On the Soul - Aristotle,Western
+Ethics,Baruch Spinoza,Modern,Rationalism,Epistemology,Latin,On the Soul - Aristotle,Western
+Ethics,Baruch Spinoza,Modern,Rationalism,Ethics,Latin,On the Soul - Aristotle,Western
+,,,,,,,
+A Treatise on Human Nature,David Hume,Modern,Empiricism,Metaphysics,English,On the Soul - Aristotle,Western
+A Treatise on Human Nature,David Hume,Modern,Empiricism,Ethics,English,On the Soul - Aristotle,Western
+A Treatise on Human Nature,David Hume,Modern,Empiricism,Epistemology,English,On the Soul - Aristotle,Western
+A Treatise on Human Nature,David Hume,Modern,Empiricism,Mind,English,On the Soul - Aristotle,Western
+An Enquiry Concerning the Principles of Morals,David Hume,Modern,Empiricism,Ethics,English,N/A,Western
+An Enquiry Concerning Human Understanding,David Hume,Modern,Empiricism,Metaphysics,English,N/A,Western
+An Enquiry Concerning Human Understanding,David Hume,Modern,Empiricism,Epistemology,English,N/A,Western
+Four Dissertation: No.4.Of the Standard of Taste,David Hume,Modern,Empiricism,Aesthetics,English,N/A,Western
+,,,,,,,
+Man a Machine,Jullien Offrey,Modern,Materialism,Metaphysics,French,Meditations on First Philosophy - Descartes,Western
+,,,,,,,
+The Spirit of the Laws,Montesquieu,Modern,Liberalism,Politics,French,Two Treatises of Government - Locke,Western
+Theory of Moral Sentiments,Adam Smith,Modern,Liberalism,Ethics ,English,N/A,Western
+Discourse on the Origin of Inequality,Rousseau,Modern,Liberalism,Ethics,French,N/A,Western
+Discourse on the Origin of Inequality,Rousseau,Modern,Liberalism,Politics,French,N/A,Western
+Inquiry into the Human Mind on the Principles of Common Sense,Thomas Reid,Modern,Realism,Epistemology,English,An Enquiry Concerning Human Understanding - Hume,Western
+Inquiry into the Human Mind on the Principles of Common Sense,Thomas Reid,Modern,Realism,Mind,English,An Enquiry Concerning Human Understanding - Hume,Western
+Essays on the Intellectual Powers of Man,Thomas Reid,Modern,Realism,Epistemology,English,On the Soul - Aristotle,Western
+Essays on the Intellectual Powers of Man,Thomas Reid,Modern,Realism,Aesthetics,English,On the Soul - Aristotle,Western
+Essays on the Intellectual Powers of Man,Thomas Reid,Modern,Realism,Mind,English,On the Soul - Aristotle,Western
+,,,,,,,
+Prolegomena to Any Future Metaphysics,Immanuel Kant,Modern,Idealism,Metaphysics,German,The Problems of Philosophy - Russel,Western
+Critique of Pure Reason,Immanuel Kant,Modern,Idealism,Metaphysics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Critique of Practical Reason,Immanuel Kant,Modern,Idealism,Ethics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Critique of Judgement,Immanuel Kant,Modern,Idealism,Aesthetics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+,,,,,,,
+Reflections on the Revolution on France,Edmund Burke,Modern,Conservatism,Politics,English,N/A,Western
+Rights of Man,Thomas Paine,Modern,Liberalism,Politics,English,N/A,Western
+A Vindication of the Rights of Women,Mary Wollstonecraft,Modern,Feminist,Politics,English,N/A,Western
+Foundations of the Science of Knowledge,Johann Gottlieb Fichte,Modern,Idealism,Epistemology,German,Meditations on First Philosophy,Western
+An Introduction to the Principles of Morals and Legislation,Bentham,Modern,Utilitarianism,Ethics,English,N/A,Western
+An Introduction to the Principles of Morals and Legislation,Bentham,Modern,Utilitarianism,Politics,English,N/A,Western
+,,,,,,,
+Phenomenology of Spirit,Georg Hegel,Modern,Idealism,Metaphysics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Phenomenology of Spirit,Georg Hegel,Modern,Idealism,Epistemology,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Phenomenology of Spirit,Georg Hegel,Modern,Idealism,Ethics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Science of Logic,Georg Hegel,Modern,Idealism,Metaphysics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Science of Logic,Georg Hegel,Modern,Idealism,Logic,German,Prolegomena to Any Future Metaphysics - Kant,Western
+The Philosophy of Right,Georg Hegel,Modern,Idealism,Politics,German,On the Laws - Cicero,Western
+,,,,,,,
+Course of Positive Philosophy: Book 6-Social Physics,Auguste Comte,Modern,Positivism,Social,French,N/A,Western
+,,,,,,,
+The World as Will and Representation Book 1/2,Arthur Schopenhauer ,Modern,Idealism,Metaphysics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+The World as Will and Representation Book 1/2,Arthur Schopenhauer ,Modern,Idealism,Epistemology,German,Prolegomena to Any Future Metaphysics - Kant,Western
+The World as Will and Representation Book 3/4,Arthur Schopenhauer ,Modern,Idealism,Ethics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+The World as Will and Representation Book 3/4,Arthur Schopenhauer ,Modern,Idealism,Aesthetics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+Fear and Trembling,Soren Kierkegaard,Modern,Extistentialism,Metaphysics,Danish,N/A,Western
+Fear and Trembling,Soren Kierkegaard,Modern,Extistentialism,Ethics,Danish,N/A,Western
+Fear and Trembling,Soren Kierkegaard,Modern,Extistentialism,Aesthetics,Danish,N/A,Western
+Either/Or,Soren Kierkegaard,Modern,Extistentialism,Ethics,Danish,N/A,Western
+Either/Or,Soren Kierkegaard,Modern,Extistentialism,Aesthetics,Danish,N/A,Western
+,,,,,,,
+Das Kapital,Karl Marx,Modern,Marxism,Politics,German,Prolegomena to Any Future Metaphysics - Kant,Western
+On Liberty,John Stuart Mill,Modern,Utilitarianism,Politics,English,On the Laws - Cicero,Western
+Utilitarianism,John Stuart Mill,Modern,Utilitarianism,Ethics,English,N/A,Western
+The Subjugation of Women,John Stuart Mill,Modern,Feminist,Politics,English,N/A,Western
+,,,,,,,
+Thus Spoke Zarathustra,Friedrich Niezsche,Modern,Extistentialism,Metaphysics,German,N/A,Western
+Thus Spoke Zarathustra,Friedrich Niezsche,Modern,Extistentialism,Ethics,German,N/A,Western
+Beyond Good and Evil,Friedrich Niezsche,Modern,Extistentialism,Metaphysics,German,Phaedo - Plato,Western
+Beyond Good and Evil,Friedrich Niezsche,Modern,Extistentialism,Ethics,German,Phaedo - Plato,Western
+On the Genealogy of Morals,Friedrich Niezsche,Modern,Extistentialism,Ethics,German,Phaedo - Plato,Western
+,,,,,,,
+On Sense and Reference,Gottlob Frege,Modern,Analytic,Epistemology,German,N/A,Western
+Begriffsschrift,Gottlob Frege,Modern,Analytic,Logic,German,N/A,Western
+The Problems of Philosophy,Bertrand Russel,Contemporary,Analytic,Epistemology,English,N/A,Western
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein,Contemporary,Analytic,Metaphysics,German,On Sense and Reference - Frege,Western
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein,Contemporary,Analytic,Language,German,On Sense and Reference - Frege,Western
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein,Contemporary,Analytic,Logic,German,On Sense and Reference - Frege,Western
+Philosophical Investigations,Ludwig Wittgenstein,Contemporary,Analytic,Logic,German,On Sense and Reference - Frege,Western
+Philosophical Investigations,Ludwig Wittgenstein,Contemporary,Analytic,Language,German,On Sense and Reference - Frege,Western
+The Philosophy of Logical Atomism,Bertrand Russel,Contemporary,Analytic,Metaphysics,English,N/A,Western
+The Philosophy of Logical Atomism,Bertrand Russel,Contemporary,Analytic,Logic,English,N/A,Western
+Principia Mathematica,Bertrand Russel,Contemporary,Math,Logic,English,N/A,Western
+,,,,,,,
+The Idea of Phenomenology,Edmund Husserl,Contemporary,Continental,Metaphysics,German,N/A,Western
+The Idea of Phenomenology,Edmund Husserl,Contemporary,Continental,Epistemology,German,N/A,Western
+Logical Investigations,Edmund Husserl,Contemporary,Continental,Logic,German,The Idea of Phenomenology - Husserl,Western
+Logical Investigations,Edmund Husserl,Contemporary,Continental,Epistemology,German,The Idea of Phenomenology - Husserl,Western
+Being and Time,Martin Heidegger,Contemporary,Continental,Metaphysics,German,Critique of Pure Reason - Kant,Western
+The Myth of Sisyphus,Albert Camus,Contemporary,Continental,Ethics,French,N/A,Western
+Of Grammatology,Jacques Derrida,Contemporary,Continental,Epistemology,French,Being and Time - Heidegger,Western
+Of Grammatology,Jacques Derrida,Contemporary,Continental,Language,French,Being and Time - Heidegger,Western
+Being and Nothingness,Jean-Paul Sartre,Contemporary,Continental,Metaphysics,French,N/A,Western
+Being and Nothingness,Jean-Paul Sartre,Contemporary,Continental,Mind,French,N/A,Western
+Negative Dialectics,Theodor Adorno,Contemporary,Continental,Epistemology,German,Phenomenology of Spirit - Hegel,Western
+Aesthetic Theory,Theodor Adorno,Contemporary,Continental,Aesthetics,German,N/A,Western
+Aesthetic Theory,Theodor Adorno,Contemporary,Continental,Social,German,N/A,Western
+The Second Sex,Simone de Beauvoir,Contemporary,Feminist,Social,French,N/A,Western
+The Order of Things,Michel Foucault,Contemporary,Continental,Epistemology,French,The Problems of Philsoohpy - Russel,Western
+The Order of Things,Michel Foucault,Contemporary,Continental,Language,French,The Problems of Philsoohpy - Russel,Western
+The Order of Things,Michel Foucault,Contemporary,Continental,Social,French,The Problems of Philsoohpy - Russel,Western
+,,,,,,,
+Philosophy and the Mirror of Nature,Richard Rorty,Contemporary,Post-Analytic,Epistemology,English,N/A,Western
+Philosophy and the Mirror of Nature,Richard Rorty,Contemporary,Post-Analytic,Language,English,N/A,Western
+Philosophy and the Mirror of Nature,Richard Rorty,Contemporary,Post-Analytic,Mind,English,N/A,Western
+On Formally Undecidable Propositions of Principia Mathematica and Related Systems,Kurt Godel,Contemporary,Math,Epistemology,German,N/A,Western
+On Formally Undecidable Propositions of Principia Mathematica and Related Systems,Kurt Godel,Contemporary,Math,Logic,German,N/A,Western
+Two Dogmas of Empiricism,William Quine,Contemporary,Post-Analytic,Metaphysics,English,N/A,Western
+Two Dogmas of Empiricism,William Quine,Contemporary,Post-Analytic,Epistemology,English,N/A,Western
+Two Dogmas of Empiricism,William Quine,Contemporary,Post-Analytic,Logic,English,N/A,Western
+Naming and Necessity,Saul Kripke,Contemporary,Analytic,Metaphysics,English,On Sense and Reference - Frege,Western
+Naming and Necessity,Saul Kripke,Contemporary,Analytic,Language,English,On Sense and Reference - Frege,Western
+,,,,,,,
+Natural Law and Natural Rights,John Finnis,Contemporary,Law,Ethics,English,N/A,Western
+Natural Law and Natural Rights,John Finnis,Contemporary,Law,Politics,English,N/A,Western
+The Concept of Law,H.L.A. Hart,Contemporary,Law,Ethics,English,N/A,Western
+The Concept of Law,H.L.A. Hart,Contemporary,Law,Politics,English,N/A,Western

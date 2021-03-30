@@ -1,0 +1,100 @@
+by
+Ricardo Daniels
+Thomas Laurel
+Quinton Negron
+
+Creating and Loading Author 
+
+create table Author (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/Author.csv'  into table Author fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading Era 
+
+create table Era (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/Era.csv'  into table Era fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading School of Thought 
+
+create table School (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/School.csv'  into table School fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading Topic 
+
+create table Topic (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/Topic.csv'  into table Topic fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading Language 
+
+create table Language (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/Language.csv'  into table Language fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading Eastern/Western 
+
+create table EW (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/EW.csv'  into table EW fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading PreNormalization 
+
+create table PreN (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/PreN.csv'  into table PreN fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Creating and Loading N1
+
+create table N1 (Work varchar(81), Author varchar(75) );
+
+load data local infile '/home/2020/hunter/fall/43502/nq2137/project_test/N1.csv'  into table N1 fields terminated by ',' optionally enclosed by '"' LINES TERMINATED BY '\r\n' ignore 1 lines ;
+
+______________________________________________________________________
+
+Showing only Results where Language is Latin and their respective Works
+
+Select * from Language where Language = 'Latin';
+
+______________________________________________________________________
+
+Showing only Results where Language  is Latin and everything related to it
+
+select * from Pre where Language = 'Latin';
+
+______________________________________________________________________
+
+Distinguishing between Results for Metaphysics the work versus Metaphysics the Topic
+
+select * from Pre where Work = 'Metaphysics';
+
+select * from Pre where Topic = 'Metaphysics';
+
+______________________________________________________________________
+
+Show only results relating to Prerequisite being N/A
+
+select * from Pre where Prerequisite = 'N/A';
+
+______________________________________________________________________
+
+Showing how users can get multiple results
+
+select * from N1 where Prerequisite = 'new' and Topic = 'Epistemology';
+
+select * from N1 where Topic = 'Ethics' and Language = 'German' and Prerequisite = 'new';
